@@ -12,3 +12,5 @@ http://www.kancloud.cn/kancloud/progit
 http://www.kancloud.cn/digest/programming-philosophy
 持续集成（第二版）
 http://www.kancloud.cn/kancloud/continuousintegration
+深入浅出Docker
+http://www.kancloud.cn/infoq/docker/79768
